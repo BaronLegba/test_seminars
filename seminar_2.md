@@ -41,7 +41,7 @@ git conmmit
 ```python
 @route("/")
 def start ():
-    return renderer ("index.html)
+    return renderer ("index.html")
 ```
 
 ## Добавление таблиц
